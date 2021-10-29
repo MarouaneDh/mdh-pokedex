@@ -1,0 +1,15 @@
+export const ADD_POKEMON = "ADD_POKEMON";
+export const EDIT_POKEMON = "EDIT_POKEMON";
+export const GET_ALL_POKEMONS = "GET_ALL_POKEMONS";
+export const GET_POKEMONS_SUCCESS = "GET_POKEMONS_SUCCESS";
+export const GET_POKEMONS_FAIL = "GET_POKEMONS_FAIL";
+
+export const GET_POKEMON = "GET_POKEMON";
+
+export const DELETE_POKEMON = "DELETE_POKEMON";
+
+export const POST_POKEMON = "POST_POKEMON";
+
+export const TOGGLE_TRUE = "TOGGLE_TRUE";
+export const TOGGLE_FALSE = "TOGGLE_FALSE";
+export const LOAD_POKEMON = "LOAD_POKEMON";
